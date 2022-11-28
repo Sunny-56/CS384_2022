@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import csv
 import pandas as pd
 
@@ -288,3 +289,21 @@ data_frame["-4"] = val_4
 data_frame["-4"] = vaneg4
 # printing in csv file
 data_frame.to_csv("octant_output.csv", index=False)
+=======
+<<<<<<< HEAD
+def octact_identification(mod=5000):
+###Code
+
+
+mod=5000
+octact_identification(mod)
+=======
+def factorial(int x):
+#here we write python code.
+    
+
+x=int(input("Enter the number whose factorial is to be found"))
+factorial(x)
+#here we write python code.
+>>>>>>> b6a60bedf8828b8961b2b88090291968ec4ff8d1
+>>>>>>> 926254a826d967fb059089308f3c59d9c9905a8c
